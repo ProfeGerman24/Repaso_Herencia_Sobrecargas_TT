@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\bin\Debug\net8.0\Herencia_Sobrecargas.exe
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\bin\Debug\net8.0\Herencia_Sobrecargas.deps.json
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\bin\Debug\net8.0\Herencia_Sobrecargas.runtimeconfig.json
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\bin\Debug\net8.0\Herencia_Sobrecargas.dll
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\bin\Debug\net8.0\Herencia_Sobrecargas.pdb
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.dll
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\refint\Herencia_Sobrecargas.dll
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.pdb
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\Herencia_Sobrecargas.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Herencia_Sobrecargas\Herencia_Sobrecargas\obj\Debug\net8.0\ref\Herencia_Sobrecargas.dll
